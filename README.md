@@ -1,3 +1,24 @@
+# Руководство по разработке промтов на&nbsp;русском языке
+
+Руководство по разработке промтов на русском языке представляет собой творческую адаптацию материалов сайта [Prompt Engineering Guide](https://www.promptingguide.ai).
+
+Перевод терминов и примеры в руководстве являются личным выбором автора. Для сообщений о неточностях и ошибках в тексте можно использовать раздел [Issues](https://github.com/annagorshunova/Prompt-Engineering-Guide/issues) в репозитории.
+
+Русскоязычное руководство опубликовано [на сайте](https://obnimorda.ru/guides/prompt/) в виде набора статических страниц. Сайт собран из других исходников, но текст руководства такой же, как в этом репозитории. Сейчас доступно [введение](https://obnimorda.ru/guides/prompt/introduction/) — от [настроек](https://obnimorda.ru/guides/prompt/introduction/settings/) большой языковой модели до [примеров](https://obnimorda.ru/guides/prompt/introduction/examples/) промтов.
+
+---
+
+Если вы хотите процитировать мою версию руководства, используйте следующую информацию для оформления ссылки:
+
+```
+@misc{Gorshunova2023RuPrompts,
+  title = {{Руководство по разработке промтов на русском языке}},
+  author = {Горшунова, Анна Сергеевна},
+  url = {https://obnimorda.ru/guides/prompt/},
+  year = {2023}
+}
+```
+
 # Prompt Engineering Guide
 
 Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Researchers use prompt engineering to improve the capacity of LLMs on a wide range of common and complex tasks such as question answering and arithmetic reasoning. Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
